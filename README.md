@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Leonardo
 
-<!--
-**LeoJohansson/LeoJohansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💼 Em busca de estágio em tecnologia  
 
-Here are some ideas to get you started:
+Tenho interesse em diferentes áreas da computação e facilidade para aprender novas tecnologias, com base sólida em algoritmos, lógica de programação e programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Experiência acadêmica:
+- Programação em C e Python
+- Desenvolvimento web com Django
+- Git e GitHub
+- Estruturas de dados e análise de algoritmos
+
+📂 Projetos em destaque:
+- Projeto e Análise de Algoritmos (PAA)
+- Sistema Hospitalar (projeto acadêmico em grupo)
+
+📫 Contato:
+- LinkedIn: https://www.linkedin.com/in/leonardo-johansson/
